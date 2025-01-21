@@ -5,9 +5,9 @@
 A Facebook event poster made with React, Tailwind, and CSS.
 
 
-![screenshot1](https://github.com/KKurzawa/led-detroit/blob/main/public/Screenshot1.png)
+![screenshot1](https://github.com/KKurzawa/houses-of-the-holy/blob/main/public/Feb8.png)
 
-[Github Repository](https://github.com/KKurzawa/led-detroit)
+[Github Repository](https://github.com/KKurzawa/houses-of-the-holy/tree/main)
 
 ## Credits
 
